@@ -1,2 +1,2 @@
 # Sorting
-Test few sorting algorithms
+Test few sorting algorithms - some edits
